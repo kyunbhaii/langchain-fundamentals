@@ -144,19 +144,16 @@ langchain-fundamentals/
 - Binding tools to LLMs for autonomous tool calling
 - Currency Conversion Tool as a practical example
 
----
 
-## 🤝 Contributing
+## Contributing
 
 This is a learning repository. Feel free to fork it, open issues, or submit PRs to improve examples or add new topics.
 
----
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This codebase was built while learning from the excellent **[LangChain tutorial series by CampusX](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=_tv3pK8OgGD5XOU6)** on YouTube. Special thanks to Nitish Sir(CampusX) for the clear and structured explanations!
 
----
 
 ## License
 
