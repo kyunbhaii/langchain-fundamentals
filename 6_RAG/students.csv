@@ -1,0 +1,61 @@
+student_id,name,age,course,city,marks
+101,Aarav Sharma,21,Computer Science,Delhi,85
+102,Meera Iyer,22,Mechanical Engineering,Mumbai,78
+103,Rohan Gupta,20,Data Science,Bangalore,92
+104,Ananya Singh,23,Electrical Engineering,Chennai,74
+105,Vihaan Patel,21,Artificial Intelligence,Pune,88
+106,Diya Verma,22,Information Technology,Hyderabad,81
+107,Aditya Rao,20,Data Analytics,Kolkata,90
+108,Isha Kapoor,23,Robotics,Ahmedabad,76
+109,Kabir Mehta,21,Cyber Security,Jaipur,84
+110,Saanvi Nair,22,Machine Learning,Noida,89
+111,Arjun Reddy,21,Computer Science,Delhi,82
+112,Nisha Thomas,22,Data Science,Mumbai,91
+113,Karan Malhotra,20,Mechanical Engineering,Bangalore,73
+114,Simran Kaur,23,Artificial Intelligence,Chandigarh,87
+115,Rajat Mishra,21,Cyber Security,Lucknow,79
+116,Priya Desai,22,Machine Learning,Pune,94
+117,Aman Jain,20,Robotics,Indore,76
+118,Neha Kulkarni,23,Electrical Engineering,Nagpur,83
+119,Siddharth Roy,21,Information Technology,Kolkata,88
+120,Tanya Kapoor,22,Data Analytics,Gurgaon,90
+121,Harsh Vardhan,20,Computer Science,Patna,72
+122,Riya Chatterjee,23,Artificial Intelligence,Kolkata,95
+123,Manav Sharma,21,Machine Learning,Jaipur,86
+124,Shruti Nair,22,Data Science,Kochi,89
+125,Yash Agarwal,20,Cyber Security,Surat,75
+126,Kritika Singh,23,Robotics,Bhopal,92
+127,Ayush Srivastava,21,Electrical Engineering,Varanasi,78
+128,Divya Menon,22,Information Technology,Trivandrum,84
+129,Nikhil Arora,20,Data Analytics,Noida,88
+130,Palak Gupta,23,Artificial Intelligence,Delhi,93
+131,Vedant Joshi,21,Computer Science,Mumbai,80
+132,Aditi Rao,22,Machine Learning,Bangalore,97
+133,Shivam Tiwari,20,Cyber Security,Kanpur,74
+134,Anushka Mehra,23,Data Science,Chennai,90
+135,Rohan Das,21,Robotics,Kolkata,82
+136,Ira Shah,22,Electrical Engineering,Ahmedabad,85
+137,Kunal Sethi,20,Artificial Intelligence,Gurgaon,91
+138,Sneha Patil,23,Machine Learning,Pune,89
+139,Aryan Khanna,21,Information Technology,Delhi,77
+140,Mehak Bansal,22,Data Analytics,Jaipur,92
+141,Parth Trivedi,20,Computer Science,Surat,81
+142,Sanya Verma,23,Artificial Intelligence,Lucknow,94
+143,Ritvik Iyer,21,Machine Learning,Chennai,88
+144,Ishita Bose,22,Data Science,Kolkata,90
+145,Tarun Yadav,20,Cyber Security,Patna,76
+146,Avni Kapoor,23,Robotics,Noida,87
+147,Krishna Pillai,21,Electrical Engineering,Kochi,83
+148,Reyansh Singh,22,Information Technology,Bhopal,79
+149,Alisha Khan,20,Data Analytics,Mumbai,95
+150,Dev Malhotra,23,Artificial Intelligence,Delhi,91
+151,Arya Iyer,21,Machine Learning,Bangalore,84
+152,Pranav Mehta,22,Computer Science,Ahmedabad,88
+153,Isha Sharma,20,Data Science,Chandigarh,93
+154,Advik Rao,23,Cyber Security,Hyderabad,78
+155,Nandini Gupta,21,Robotics,Jaipur,86
+156,Raghav Nair,22,Electrical Engineering,Kochi,90
+157,Myra Kapoor,20,Artificial Intelligence,Delhi,92
+158,Om Prakash,23,Machine Learning,Patna,80
+159,Saanvi Mehta,21,Information Technology,Mumbai,89
+160,Ayaan Choudhary,22,Data Analytics,Gurgaon,87
