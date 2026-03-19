@@ -152,6 +152,12 @@ This is a learning repository. Feel free to fork it, open issues, or submit PRs 
 
 ---
 
+## 🙏 Acknowledgments
+
+This codebase was built while learning from the excellent **[LangChain tutorial series by CampusX](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=_tv3pK8OgGD5XOU6)** on YouTube. Special thanks to Nitish Sir(CampusX) for the clear and structured explanations!
+
+---
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
