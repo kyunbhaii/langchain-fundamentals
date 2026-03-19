@@ -23,3 +23,5 @@ __pycache__/
 venv/
 .venv/
 env/
+*.pdf
+*.ipynb_checkpoints
